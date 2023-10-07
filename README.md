@@ -1,2 +1,2 @@
 # Amazon_Clone
-This project is a clone of amazon.com website 
+This project is a clone of amazon.com website
